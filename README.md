@@ -8,3 +8,8 @@ RavoraSMP is a simple lore-driven survival server with custom resources, built o
 The experience stays close to vanilla survival while modifying the pace of progression, making it slower and more rewarding, and introducing improvements, mechanics, and items that enhance and complement the player experience - all without requiring players to install anything manually
 
 The server is also fully integrated with our Discord server, connecting in-game events, players, and the community beyond the world itself.
+
+## **Want to know more?**  
+Check out the **RavoraSMP Wiki** for full documentation: detailed guides, mechanics, lore, rules, and everything you need to get the most out of the server.
+
+👉 https://github.com/reallypointlesszone/RavoraSMP/wiki
